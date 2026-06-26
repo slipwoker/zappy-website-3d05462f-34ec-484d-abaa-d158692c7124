@@ -1,0 +1,104 @@
+# VELORIA — Generative Engine Optimization Map
+
+> A jewelry store business looking to establish an online presence. The specific niche, brand identity, and unique characteristics are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://veloria-3d05462f.zappy5.app
+חנות תכשיטים אונליין מובילה עם עיצובים נדירים לכל רגע בחיים. היכנסו עכשיו ל-VELORIA וגלו קולקציות קסומות שמחכות רק לכם, במחירים שווים לכל כיס.
+
+### אירועים והדרכה
+https://veloria-3d05462f.zappy5.app/occasions-guidance
+זקוקים להדרכה בבחירת תכשיט לאירוע מיוחד? VELORIA מציעה מדריך מקיף ומלא השראה שיעזור לכם למצוא את הפריט האידיאלי שיהפוך כל רגע לבלתי נשכח. התחילו לחקור עכשיו.
+
+### אודות
+https://veloria-3d05462f.zappy5.app/about
+מאחורי כל תכשיט מסתתר סיפור של תשוקה ואומנות. הצטרפו למסע של VELORIA, מותג צומח שמביא לכם את מיטב התכשיטים הקמעונאיים ברשת, עם אהבה גדולה לכל פרט ופרט.
+
+### צור קשר
+https://veloria-3d05462f.zappy5.app/contact
+יש לכם שאלה או רעיון לתכשיט מושלם? צוות המומחים של VELORIA כאן כדי לעזור. פנו אלינו עוד היום לקבלת ייעוץ אישי, שירות ללא תחרות, והדרך הקצרה ביותר לענוד את החלום.
+
+### Products
+https://veloria-3d05462f.zappy5.app/products
+המוצרים שלנו - VELORIA
+
+### Cart
+https://veloria-3d05462f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://veloria-3d05462f.zappy5.app/checkout
+תשלום
+
+### Login
+https://veloria-3d05462f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://veloria-3d05462f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://veloria-3d05462f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://veloria-3d05462f.zappy5.app/product/:slug
+פרטי המוצר - VELORIA
+
+### Category
+https://veloria-3d05462f.zappy5.app/category/:slug
+מוצרים - VELORIA
+
+### תודה שפניתם אלינו | VELORIA
+https://veloria-3d05462f.zappy5.app/thank-you
+VELORIA - תודה שפניתם אלינו | VELORIA
+
+## Legal & Policy
+
+### Privacy Policy
+https://veloria-3d05462f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://veloria-3d05462f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://veloria-3d05462f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About VELORIA
+A jewelry store business looking to establish an online presence. The specific niche, brand identity, and unique characteristics are yet to be defined.
+
+## Target Audience
+- מחפשי יוקרה
+- קוני אירוסין ונישואין
+- נותני מתנות
+
+## Industry
+Jewelry Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://veloria-3d05462f.zappy5.app/sitemap.xml
+- Robots: https://veloria-3d05462f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://veloria-3d05462f.zappy5.app/llms-full.txt
+- Products (JSON): https://veloria-3d05462f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://veloria-3d05462f.zappy5.app/product-feed.xml
